@@ -3,8 +3,8 @@
 This is an Angular Project Seed recommended by OASP4JS. The Project Seed is in fact a simple application built upon
 the https://github.com/angular/angular-cli[Angular CLI].
 
-image:https://img.shields.io/travis/oasp/oasp4js-ng-project-seed/master.svg[Build Status (Travis CI), link=https://travis-ci.org/oasp/oasp4js-ng-project-seed]
-image:https://img.shields.io/codecov/c/github/oasp/oasp4js-ng-project-seed/master.svg[Code Coverage, link=https://codecov.io/gh/oasp/oasp4js-ng-project-seed]
+image:https://img.shields.io/travis/pwr-piisw/oasp4js-ng-project-seed/master.svg[Build Status (Travis CI), link=https://travis-ci.org/pwr-piisw/oasp4js-ng-project-seed]
+image:https://img.shields.io/codecov/c/github/pwr-piisw/oasp4js-ng-project-seed/master.svg[Code Coverage, link=https://codecov.io/gh/pwr-piisw/oasp4js-ng-project-seed]
 image:https://www.versioneye.com/user/projects/59315f2e22f278003c5f84d5/badge.svg[Dependency Status, link=https://www.versioneye.com/user/projects/59315f2e22f278003c5f84d5]
 
 See the sample app https://oasp.github.io/oasp4js-ng-project-seed[here].
